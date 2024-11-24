@@ -1,0 +1,18 @@
+{
+  "resources/css/app.css": {
+    "file": "app-BuxzEpRF.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/registration.css": {
+    "file": "registration-B5E350Ji.css",
+    "src": "resources/css/registration.css",
+    "isEntry": true
+  },
+  "resources/js/app.jsx": {
+    "file": "app-D11ghrSw.js",
+    "name": "app",
+    "src": "resources/js/app.jsx",
+    "isEntry": true
+  }
+}
