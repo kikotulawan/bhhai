@@ -30,7 +30,7 @@ import UserAccountSettings from "./pages/UserAccountSetting";
 import { fetchUserDetails } from "./api/user";
 import Dashboard from "./pages/Dashboard";
 import ViewAllNotifications from "./pages/AllNotification";
-import ProofOfPayment from "./pages/ProofOfPayment";
+import ProofOfPayment from "./pages/ProofofPayment";
 import ContactUs from "./pages/Contactus";
 
 function App() {
